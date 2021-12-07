@@ -1,15 +1,4 @@
 # Lernjournal
-# Inhaltsverzeichnis
-
-    23.10.2021
-        Ziel
-    30.11.2021
-        Ziel Auswertung
-        Neue Ziel
-    07.12.2021
-        Ziel Auswertung
-        Neue Ziel
-
 # 23.10.2021
 
 Heute haben wir mit dem ganzen Git Projekt angefangen. Unsere erste Aufgabe war es Github mit Visual Studio Code zu verbinden. Ich kam sehr gut damit klar und hatte keine grosse Probleme damit. Da Klodiana kein Basislehrjahr hat und das noch nie gemacht hat, konnte ich ihr alles erklären und vorzeigen.
