@@ -16,7 +16,7 @@ Ich habe mein Ziel von der letzten Woche erreicht. Ich setzte mich so wie geschr
 Mein Ziel für die nächste Woche ist es, die anderen Passwort Manager zu kennenlernen. Da ich bereits schon Bitwarden habe und ich es gut finde, aber die anderen noch nie angeschaut habe.
 # 07.12.2021
 
-Heute waren Privacy Policies ein Thema. Wir teilten uns in Gruppen auf und bearbeiteten je ein Thema, welche wir am Schluss vorstellen konnten. Ich arbeitete mit Klodiana und Mikka und hatten Snapchat als Thema. Am Schluss schauten wir noch ein Film und führten eine Disskusionrunde dazu.
+Heute waren Privacy Policies ein Thema. Wir teilten uns in Gruppen auf und bearbeiteten je ein Thema, welche wir am Schluss vorstellen konnten. Ich arbeitete mit Klodiana und Bianka und hatten Snapchat als Thema. Am Schluss schauten wir noch ein Film und führten eine Disskusionrunde dazu.
 
 Film -> https://de.wikipedia.org/wiki/Im_Schatten_der_Netzwelt Snapchat -> https://snap.com/en-US/privacy/privacy-policy
 Ziel Auswertung
