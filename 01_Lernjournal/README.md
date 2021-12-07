@@ -1,40 +1,38 @@
-# Lernjournal  <!-- omit in toc -->
+# Lernjournal
+# Inhaltsverzeichnis
 
-# Inhaltsverzeichnis  <!-- omit in toc -->
-- [1. Bis 19.09.2021](#1-bis-19092021)
-- [2. 20.09.2021](#2-20092021)
-  - [2.1. Ziele](#21-ziele)
-  - [2.2. Auswertung](#22-auswertung)
-- [3. 27.09.2021](#3-27092021)
-- [4. 04.10.2021](#4-04102021)
-- [5. 25.10.2021](#5-25102021)
-- [6. Quellen](#6-quellen)
+    23.10.2021
+        Ziel
+    30.11.2021
+        Ziel Auswertung
+        Neue Ziel
+    07.12.2021
+        Ziel Auswertung
+        Neue Ziel
 
-# 1. Bis 19.09.2021
-Folgende Inhalte habe ich seit Beginn bis am 19.09.2021 mitgenommen:
+# 23.10.2021
 
+Heute haben wir mit dem ganzen Git Projekt angefangen. Unsere erste Aufgabe war es Github mit Visual Studio Code zu verbinden. Ich kam sehr gut damit klar und hatte keine grosse Probleme damit. Da Klodiana kein Basislehrjahr hat und das noch nie gemacht hat, konnte ich ihr alles erklären und vorzeigen.
+# Ziel
 
-# 2. 20.09.2021
-## 2.1. Ziele
- - Z1: Eigenes Lernportfolio auf gitlab eingerichtet und Lehrperson freigegeben. 
+Da ich Heute nicht mit allem fertig geworden bin, habe ich mir als Ziel vorgenommen, mich mal am Abend an dem dran zu setzen und alles zu nachholen.
+# 30.11.2021
 
+Heute hatten wir HomeOffice. Am Anfang hatten wir ein Begrüssungsmeeting in dem wir Heutige Nachmittag besprochen haben. Dazu haben wir auch ein Wiederholungsquiz von der letzte Woche gmacht. Nachdem konnten wir selbstständig arbeiten. Das Thema war Passwortverwaltung. Wir mussten 3 Passwort Manager aussuchen und miteinander vergleichen. Währenddessen führte Herr Albrecht einzeln Gespräche, wo es darum ging wie weit wir in diesem Modul sind und ob wir mit allem klarkommen.
+# Ziel Auswertung
 
-## 2.2. Auswertung
- - Z1: Erledigt Link: https://gitlab.com/ch-tbz-it/Stud/m231
+Ich habe mein Ziel von der letzten Woche erreicht. Ich setzte mich so wie geschrieben zu diesen Aufgaben und machte alles fertig. Da bin ich auch zufrieden, da ich jetzt mitdabei bin und nicht stressen muss, dass ich noch etwas zutun habe.
+# Neue Ziel
 
-# 3. 27.09.2021
-| Ziel | Auswertung   |
-|----------------------------------------------------------------------------------|---------------------------------------------------|
-| Drei Passwortverwaltungsprogramme miteinander verglichen und dokumentiert.       | Keepass, Lastpass, Bitwarden, 5 Kriterien => Done |
-| Ein Passwortverwaltungsprogramm für mich selbst ausgewählt.  | Keepass => Done  |
-| Passwortverwaltungsprogramm eingerichtet und auf dem eigenen Gerät installiert.  | Done  |
-| usw….                | | 
+Mein Ziel für die nächste Woche ist es, die anderen Passwort Manager zu kennenlernen. Da ich bereits schon Bitwarden habe und ich es gut finde, aber die anderen noch nie angeschaut habe.
+# 07.12.2021
 
+Heute waren Privacy Policies ein Thema. Wir teilten uns in Gruppen auf und bearbeiteten je ein Thema, welche wir am Schluss vorstellen konnten. Ich arbeitete mit Klodiana und Mikka und hatten Snapchat als Thema. Am Schluss schauten wir noch ein Film und führten eine Disskusionrunde dazu.
 
-# 4. 04.10.2021
+Film -> https://de.wikipedia.org/wiki/Im_Schatten_der_Netzwelt Snapchat -> https://snap.com/en-US/privacy/privacy-policy
+Ziel Auswertung
 
-# 5. 25.10.2021
+Ich habe mein Ziel von der letzte Woche erreicht, da ich mich mit den anderen Passwort Menager auseinandergenommen habe.
+# Neue Ziel
 
-
-
-# 6. Quellen
+Mein Ziel für die nächste Woche ist es, eine Zusammenfassung zu erstellen und schon mal anschauen.
