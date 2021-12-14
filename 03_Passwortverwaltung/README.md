@@ -1,11 +1,12 @@
 # Passwortverwaltung
 
-# Entscheidung
-### BitWarden
-Ich habe mich für Bitwarden entschieden ,da ich diesen Passwortmanager von Mitarbeiter vorgeschlagen bekommen habe
+## Entscheidung
+Verschiedene Passwortmanager
 - DashLane
 - LastPass
 - BitWarden
+### Bitwarden
+Ich habe mich für Bitwarden entschieden ,da ich diesen Passwortmanager von Mitarbeiter vorgeschlagen bekommen habe
 <table>
   <thead>
     <tr>
