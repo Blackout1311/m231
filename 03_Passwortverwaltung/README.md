@@ -6,7 +6,7 @@ Verschiedene Passwortmanager
 - LastPass
 - BitWarden
 ### Bitwarden
-Ich habe mich für Bitwarden entschieden ,da ich diesen Passwortmanager von Mitarbeiter vorgeschlagen bekommen habe
+Ich habe mich für Bitwarden entschieden ,da ich diesen Passwortmanager von Mitarbeiter vorgeschlagen bekommen habe und ich sehr viele Leute kenne die ihn benutzen inklusive mein Vater. Bitwarden ist meiner Meinung vom Design und das man es bei Chrome als Extension benutzen kann am besten auch den fakt das es kostenlos ist und ich sehr viele verschiedene möglichkeiten habe mit Bitwarden und Wenn man vorher schon ein anderen Passwortmanager benutzt hat dann fragt es dich ob du die Passwörter übertragen möchtest was auch mega praktisch ist. 
 <table>
   <thead>
     <tr>
