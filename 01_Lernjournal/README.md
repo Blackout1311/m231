@@ -49,3 +49,9 @@ Heute haben wir uns mit dem Thema Ablagekonzept beschäftigt. Wir haben die ganz
 geschafft
 # Neues Ziel
 Portfolio weiterarbeiten
+# 18.01.22
+Heute haben wir uns mit dem Thema Backup befasst. als erstes mussten wir uns einlesen und mussten dann in Teams, ich war mit (Joel, Yannis, Marzio) im Team, einen Vortrag und Plakat über das Vorgegebene Thema machen. Wir hatten das Thema HOT vs. COLD Backup. Danach konnten wir an unserem Portfolio arbeiten und ich habe das Ablagekonzept beendet und habe das Lernjournal geschrieben
+# Ziel Auswertung
+Ziel erreicht
+# Neues Ziel
+Backupkonzept fertig machen und beenden
