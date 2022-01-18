@@ -55,7 +55,7 @@ Ich habe mich für Bitwarden entschieden ,da ich diesen Passwortmanager von Mita
 2. ich habe Bitwarden mit meinem Vorherigen Chrome Passwortmanager synchronisiert und hatte direkt alle Passwörter auf BitWarden gespeichert
 
 ## Quellen
-https://bitwarden.com/download/
-https://bitwarden.com/
-https://www.lastpass.com/de
-https://www.dashlane.com/
+- https://bitwarden.com/download/
+- https://bitwarden.com/
+- https://www.lastpass.com/de
+- https://www.dashlane.com/
