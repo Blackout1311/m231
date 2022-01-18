@@ -2,21 +2,21 @@
 
 # Meine Datenablagen und Services
 
-**Gerät (Speicherort)**|**Samsung A50**|**Samsung A50**|**Samsung A50**|**Samsung A50 / Laptop**|**Samsung A50 / Laptop**
+**Gerät**|**Samsung A50**|**Samsung A50**|**Samsung A50**|**Samsung A50 / Laptop**|**Samsung A50 / Laptop**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 **Betriebssystem**|Android|Android|Android|Android / Windows 10|Android / Windows 10
-**Applikation**|Whatsapp|Instagram|Drive|Outlook / Gmx|Discord
-**Art der Daten**|Chats/Gruppenchats|Chats|Fotos|Emails|Chats
+**App**|Whatsapp|Instagram|Drive|Outlook / Gmx|Discord
+**Daten**|Chats/Gruppenchats|Chats|Fotos|Emails|Chats
 **Auf zentralem Server gespeichert?**|Ja, ohne Medien|Ja|Ja|Ja|Ja
-**User friendly privacy policy?**|Nein|Nein|Nein|Nein|Nein
-**Folgen von Datenverlust**|Kommunikation nicht mehr nachvollziehbar|Keine|Alte Erinnerungs Bilder |Kalendetermine, Emails|Keine
-**Folgen von Datendiebstahl**|Keine|Keine|Veröffentlichung von Privaten Daten|Veröffentlichung von Privaten Daten|Keine
+**User friendly (privacy policy)?**|Nein|Nein|Nein|Nein|Nein
+**Folgen Datenverlust**|Kommunikation nicht mehr nachvollziehbar|Keine|Alte Erinnerungs Bilder |Kalendetermine, Emails|Keine
+**Folgen Datendiebstahl**|Keine|Keine|Veröffentlichung von Privaten Daten|Veröffentlichung von Privaten Daten|Keine
 **Backup vorhanden? Art des Backups**|Ja, ohne Medien|Ja|Ja|Ja|Ja|Ja
 **Häufigkeit des Backups**|Ab und zu|Automatisch|Automatisch|Automatisch|Automatisch
-**Massnahmen**|Auf dem neuen Handy Threema und Signal downloaden|Weniger auf Instagram schreiben | | |Weiterhin nichts wichtegeres über Discord schreiben
+**Massnahmen**|Eine sichere Lösung zu finden|Weniger auf Instagram schreiben | | |nichts wichtiges über Discord schreiben
 
 
-## Fazit/Massnahmen ergreifen
+## Fazit
 
 Ich bin eigentlich zufrieden jedoch gibt es wie oben in der Tabelle erwähnt einige Sachen die ich noch machen sollte
 
