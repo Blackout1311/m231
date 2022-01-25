@@ -53,6 +53,8 @@ Ich habe mich für Bitwarden entschieden ,da ich diesen Passwortmanager von Mita
 ## Einrichtung
 1. man erstellt ein Main Password
 2. ich habe Bitwarden mit meinem Vorherigen Chrome Passwortmanager synchronisiert und hatte direkt alle Passwörter auf BitWarden gespeichert
+![grafik](https://user-images.githubusercontent.com/84330170/150997222-dbc58c9b-17f0-484c-82b4-8d02ab6b30aa.png)
+
 
 ## Quellen
 - https://bitwarden.com/download/
