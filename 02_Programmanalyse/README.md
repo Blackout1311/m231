@@ -1,30 +1,54 @@
 # 231 - Programmanalyse
 
-# Ausgewählte(r) Service / Applikation
-
-### -[Discord](https://discord.com/)
+# Snapchat 👻
 
 # Wo finde ich die Datenschutz-/Nutzungsbestimmungen (URL)?
 
-### -[Discord Privacy Richtlinien](https://discord.com/privacy)
+Auf der Snapchat Webseite
 
-# Daten die gespeichert werden(Personendaten)
+https://snap.com/en-US/privacy/privacy-policy
 
-Benutzername/ Mail/ Nachrichten/ Bilder/ temporäre VOI -Daten/ IP-Adresse/ Geräte-ID/ Cookies/ Aktivität/ Informationen durch verbundene Socialnetworking Dienste
+# Welche Daten werden gespeichert? (Liste mit allen erfassten Personendaten)
 
-# Für was werden Daten gespeichert
+## Information die der Benutzer eingibt/mitteilt
+ - Name
+ - Nachname
+ - Benutzername
+ - Geburtsdatum
+ - Tel Nummer
+ - Email
+ - Passwort
+ - Snaps und Chats
+Erweiterungen
+ - Profilbild
+ - Bitmoji
+ - Wohnort (bzw.Land)
+ - Standort
+ - Bankkonto Daten
 
-Das Unternehmen und seine Tochtergesellschaften sowie Vertragspartner („verbundene Unternehmen“) verwenden die von Ihnen über die Dienste bereitgestellten Informationen, um die Inhalte und Funktionen unseres Dienstes zu verbessern, unsere Nutzer zu verstehen und die Dienste zu optimieren.
-Deine Aktivität: Informationen wie du in der App navigierst, wie oft du Discord genutzt hast, welche Spiele du gespielt hast und auf welchen Servern du warst. Wir benutzen diese Informationen um Discord zu verbessern und um es besser auf dich zuschneiden zu können.
+## Informationen welche während Benutzung der App mitgeteilt werden
 
-# Werden die Daten weitergegeben
+ - Wenn und wie lange man dieses App benutzt
+ - Welche Filter man benutzt
+ - Mit wem man schriebt/Snapt
+ - Camera&Bilder
+ - GPS/Wi-Fi
+ - IP - Adresse
 
-Außerdem verkauft Discord verschiedene Daten zu Marketingzwecken an Agenturen und Dienstleister. ... Das Unternehmen und seine Server befinden sich in den USA, bei der Nutzung wird also eingewilligt, dass die eigenen Daten dort verarbeitet und weitergegeben werden.
+# Für was werden die Daten verwendet?
 
-# Darf Discord Daten verkaufen
+- Damit andere Benutzer unseres Profil sehen können
+- Sicherheit / Benutzer schützen
+- E-mails schicken, falls ein andere Gerät eingeloggt wird
 
-Sämtliche Chats und Nachrichten kann Discord mitlesen und zu verkäuflichen Daten weiterverarbeiten. Das ist soweit kein Problem, solange sich Nutzer bewusst dafür entscheiden. Schwierigkeiten kriegen Firmen, die Discord einsetzen, eventuell beim Datenschutz: Personenbezogene Daten müssen laut DSGVO geschützt werden.
+# Werden die Daten weitergegeben? Wenn ja, an wen?
+
+Ja, an der anderen Benutzer(Benutzername,Name usw.)
+
+# Darf der Dienst/Service/Plattform meine Bilder/Videos weiterverkaufen?
+
+Ja, Die neue Lizenz gibt Snapchat die Möglichkeit, Fotos und Videos für Marketing-Kampagnen, Auswertungen und für Geschäftspartner zu nutzen.
 
 # Quellen
-### -[Discord](https://discord.com/)
-### -[Discord Privacy Richtlinien](https://discord.com/privacy)
+
+https://snap.com/en-US/privacy/privacy-policy
