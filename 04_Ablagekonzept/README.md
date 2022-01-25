@@ -7,12 +7,11 @@
 **Betriebssystem**|Android|Android|Android|Android / Windows 10|Android / Windows 10
 **App**|Whatsapp|Instagram|Drive|Outlook / Gmx|Discord
 **Daten**|Chats/Gruppenchats|Chats|Fotos|Emails|Chats
-**Auf zentralem Server gespeichert?**|Ja, ohne Medien|Ja|Ja|Ja|Ja
-**User friendly (privacy policy)?**|Nein|Nein|Nein|Nein|Nein
+**User friendly (privacy policy)**|Nein|Nein|Nein|Nein|Nein
 **Folgen Datenverlust**|Kommunikation nicht mehr nachvollziehbar|Keine|Alte Erinnerungs Bilder |Kalendetermine, Emails|Keine
 **Folgen Datendiebstahl**|Keine|Keine|Veröffentlichung von Privaten Daten|Veröffentlichung von Privaten Daten|Keine
-**Backup vorhanden? Art des Backups**|Ja, ohne Medien|Ja|Ja|Ja|Ja|Ja
-**Häufigkeit des Backups**|Ab und zu|Automatisch|Automatisch|Automatisch|Automatisch
+**Backup vorhanden**|Ja, ohne Medien|Ja|Ja|Ja|Ja|Ja
+**Häufigkeit des Backups**|Jeden Tag um 2 Uhr|Automatisch|Automatisch|Automatisch|Automatisch
 **Massnahmen**|Eine sichere Lösung zu finden|Weniger auf Instagram schreiben | | |nichts wichtiges über Discord schreiben
 
 
