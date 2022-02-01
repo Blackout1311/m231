@@ -11,7 +11,7 @@
 **Folgen Datenverlust**|Kommunikation nicht mehr nachvollziehbar|Keine|Alte Erinnerungs Bilder |Kalendetermine, Emails|Keine
 **Folgen Datendiebstahl**|Keine|Keine|Veröffentlichung von Privaten Daten|Veröffentlichung von Privaten Daten|Keine
 **Backup vorhanden**|Ja, ohne Medien|Nein|Ja|Ja|Nein
-**Häufigkeit des Backups**|Jeden Tag um 2 Uhr|Automatisch|Automatisch|Automatisch|Automatisch
+**Häufigkeit des Backups**|Jeden Tag um 2 Uhr|keins|Automatisch|Automatisch|keins
 **Massnahmen**|Eine sichere Lösung zu finden|Weniger auf Instagram schreiben | | |nichts wichtiges über Discord schreiben
 
 
